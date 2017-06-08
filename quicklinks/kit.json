@@ -1,0 +1,7 @@
+{
+    "name": "QuickLinks",
+    "version": "0.1",
+    "modules": [
+		"QuickLinks"
+	]
+}
