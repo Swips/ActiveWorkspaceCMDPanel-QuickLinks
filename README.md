@@ -1,6 +1,6 @@
 # ActiveWorkspaceCMDPanel-QuickLinks
 
 
-#How to install
+# How to install
 
 clone or download the repo contents
